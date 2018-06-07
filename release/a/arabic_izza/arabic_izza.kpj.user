@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <templatepath>file:///C:/Program%20Files%20(x86)/Keyman/Keyman%20Developer%2010.0/xml/project/</templatepath>
+  <stringspath>file:///C:/Program%20Files%20(x86)/Keyman/Keyman%20Developer%2010.0/xml/project/</stringspath>
+  <state></state>
+  <FileStates>
+    <FileState>
+      <ID>id_25f6bb4d0eba1c7130d5d025f8db8d29</ID>
+      <FullPath>C:\projects\keyboards-starter\arabic_izza\release\a\arabic_izza\source\arabic_izza.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Courier New|12|   |0</DebugFont>
+        <CodeFont>Courier New|12|   |0</CodeFont>
+        <CharFont>Courier New|12|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_ee7e7904eac91e4f69e1d9b949bab444</ID>
+      <FullPath>C:\projects\keyboards-starter\arabic_izza\release\a\arabic_izza\source\arabic_izza.kps</FullPath>
+      <IDEState>
+        <CodeFont>Courier New|12|   |0</CodeFont>
+        <CharFont>Courier New|12|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_bbfba3824789686040924149a908bfeb</ID>
+      <FullPath>C:\projects\keyboards-starter\arabic_izza\release\a\arabic_izza\source\arabic_izza.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_005e0c9b9716a30f9bcfc0fc663f5566</ID>
+      <FullPath>C:\projects\keyboards-starter\arabic_izza\release\a\arabic_izza\source\..\build\arabic_izza.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_49fbe2c5e359f8002888f4a0e5127baf</ID>
+      <FullPath>C:\projects\keyboards-starter\arabic_izza\release\a\arabic_izza\source\..\build\arabic_izza.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\projects\keyboards-starter\arabic_izza\release\a\arabic_izza\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a89bab6f56d920066c5f3db3777c47a7</ID>
+      <FullPath>C:\projects\keyboards-starter\arabic_izza\release\a\arabic_izza\source\..\build\arabic_izza.js</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>arabic_izza.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\projects\keyboards-starter\arabic_izza\release\a\arabic_izza\source\arabic_izza.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>arabic_izza.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>D:\src\keyboards\release\a\arabic_izza\source\arabic_izza.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>arabic_izza.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>D:\src\keyboards\release\a\arabic_izza\source\arabic_izza.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
